@@ -1,0 +1,7 @@
+#Rust gitignore
+
+#Generated files
+/target/
+
+#Lib dependencies
+Cargo.lock
